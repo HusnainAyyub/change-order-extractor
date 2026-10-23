@@ -1,0 +1,14 @@
+CHANGE  0RDER  F0RM
+Scanned copy, some characters may be off
+
+Change Order No :  CO-209
+Project : Harborview Clinic Expansion
+Date Issued : 04/18/2026
+Contractor : Apex Builders LLC
+Client : Harborview Health Systems
+Description : Replace the damaged HVAC ducting
+on the second floor, east wing.
+T0TAL : $ 12,750.00
+Schedule Impact : 3 days
+Reason : Storm damage found during inspection.
+Status : Approved

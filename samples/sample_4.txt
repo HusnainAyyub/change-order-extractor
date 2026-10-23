@@ -1,0 +1,11 @@
+CHANGE ORDER
+
+Change Order No: CO-315
+Project: Elm Street Parking Garage
+Date Issued: 2026-05-02
+Contractor: BuildRight Construction LLC
+Client: City of Elm Grove
+Description: Remove the decorative lighting package from level 2.
+Amount: -$3,200.00 (credit back to client)
+Reason: Client cut the lighting package to reduce cost.
+Status: Pending

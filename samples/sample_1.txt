@@ -1,0 +1,12 @@
+CHANGE ORDER
+
+Change Order No: CO-101
+Project: Riverside Tower - Level 4 Fit Out
+Date Issued: March 3, 2026
+Contractor: BuildRight Construction LLC
+Client: Harbor Group Properties
+Description: Add two glass partition walls in the open office area on level 4.
+Amount: $18,450.00
+Schedule Impact: 6 days
+Reason: Client requested additional meeting rooms.
+Status: Approved
